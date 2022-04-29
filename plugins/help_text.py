@@ -59,5 +59,5 @@ async def start(bot, update):
                 [InlineKeyboardButton("Developer 👨‍⚖️", url="https://github.com/kalanakt")],
             ]
         ),
-        reply_to_message_id=update.message_id
+        
     )
